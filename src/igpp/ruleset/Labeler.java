@@ -45,7 +45,7 @@ public class Labeler {
 	 
 	 public MultiPrinter	mOutput = new MultiPrinter(System.out);
 	 
-	 private static final String		mVersion = "1.0.2";
+	 private final String		mVersion = "1.0.2";
 	 
 	/**
 	 * Create an instance.
